@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Mafia Randomizer</string>
+    <string name="save">Сохранить</string>
+    <string name="sit_on">Рассадить</string>
+    <string name="type_player_name">Введите имя игрока</string>
+    <string name="submit">ОК</string>
+    <string name="cancel">Отмена</string>
+
+    <string name="citizen">Мирный</string>
+    <string name="mafia">Мафия</string>
+    <string name="sheriff">Шериф</string>
+    <string name="don">Дон</string>
+</resources>
